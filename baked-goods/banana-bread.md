@@ -2,17 +2,17 @@
 
 Not too rich, but still fairly moist. Adapted from [Cloudy Kitchen](https://cloudykitchen.com/blog/easy-banana-bread/).
 
-420g over ripe bananas
-120g full fat or  greek yogurt
-40g coconut oil, liquid
-2 large eggs, at room temperature
-40g granulated sugar
-120g light or dark brown sugar
-1 tsp vanilla extract
-235g all-purpose flour
-1 tsp baking soda
-1 tsp kosher salt
-½ tsp cinnamon 
+- 420g over ripe bananas
+- 120g full fat or  greek yogurt
+- 40g coconut oil, liquid
+- 2 large eggs, at room temperature
+- 40g granulated sugar
+- 120g light or dark brown sugar
+- 1 tsp vanilla extract
+- 235g all-purpose flour
+- 1 tsp baking soda
+- 1 tsp kosher salt
+- ½ tsp cinnamon 
 
 1. Preheat oven to 350°F and prepare a greased loaf pan.
 2. Smush the bananas with the yogurt.
